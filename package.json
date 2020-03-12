@@ -47,13 +47,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marie1881/buy-food-app.git"
+    "url": "git+https://github.com/marielol123/buyfoodapp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marie1881/buy-food-app/issues"
+    "url": "https://github.com/marielol123/buyfoodapp/issues"
   },
-  "homepage": "https://github.com/marie1881/buy-food-app#readme"
+  "homepage": "https://github.com/marielol123/buyfoodapp#readme"
 }
