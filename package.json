@@ -47,13 +47,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amituuush/gomocha.git"
+    "url": "git+https://github.com/marie1881/buy-food-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amituuush/gomocha/issues"
+    "url": "https://github.com/marie1881/buy-food-app/issues"
   },
-  "homepage": "https://github.com/amituuush/gomocha#readme"
+  "homepage": "https://github.com/marie1881/buy-food-app#readme"
 }
