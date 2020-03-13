@@ -1,70 +1,73 @@
 .decaf-option {
-    display: inline-block;
+  display: inline-block;
 }
 
 .decaf-input {
-    margin-left: 0.5em;
+  margin-left: 0.5em;
 }
 
 .hot-or-cold-option {
-    display: inline-block;
+  display: inline-block;
 }
 
 .hot-or-cold-option label {
-    margin-left: 1em;
+  margin-left: 1em;
 }
 
-.hot-input, .cold-input {
-    margin-left: 0.4em;
+.hot-input,
+.cold-input {
+  margin-left: 0.4em;
 }
 
 .add-to-order-wrap {
-    display: inline-block;
-    float: right;
-    margin-right: 1em;
-    margin-top: -0.1em;
+  display: inline-block;
+  float: right;
+  margin-right: 1em;
+  margin-top: -0.1em;
 
-    .add-to-order {
-        color: #fff;
-        background: #3FB083;
-        margin-left: 1em;
-        border-radius: 3px;
-        font-size: 0.9em;
-        padding: 0.6em 0.9em;
-
-        &:hover {
-            cursor: pointer;
-            background: lighten(#3FB083, 7%);
-        }
-    }
-}
-
-.milk-type, .size, .quantity {
-    display: inline-block;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    padding: 0.2em 0.5em;
+  .add-to-order {
+    color: #fff;
+    background: #fad675;
+    margin-left: 1em;
     border-radius: 3px;
-    background: url('/img/down-arrow.png') no-repeat #F8F8F8;
-    font-size: 0.95em;
+    font-size: 0.9em;
+    padding: 0.6em 0.9em;
 
     &:hover {
-        cursor: pointer;
+      cursor: pointer;
+      background: lighten(#fad675, 7%);
     }
+  }
+}
+
+.milk-type,
+.size,
+.quantity {
+  display: inline-block;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding: 0.2em 0.5em;
+  border-radius: 3px;
+  background: url("/img/down-arrow.png") no-repeat #f8f8f8;
+  font-size: 0.95em;
+
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 .milk-type {
-    background-position: 90% 55%;
-    width: 7.5em;
+  background-position: 90% 55%;
+  width: 7.5em;
 }
 
 .size {
-    background-position: 85% 55%;
-    width: 4.5em;
+  background-position: 85% 55%;
+  width: 4.5em;
 }
 
 .quantity {
-    background-position: 85% 55%;
-    width: 3.9em;
+  background-position: 85% 55%;
+  width: 3.9em;
 }
