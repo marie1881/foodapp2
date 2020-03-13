@@ -7,4 +7,4 @@ Double Shot is an online ordering app for coffee. It allows the user to order at
 # Technologies
 
 This is built with react and redux, it uses SASS as a CSS extension.
-The back end aspect is built with Node.js,
+The back end aspect is built with Node.js (Express)
