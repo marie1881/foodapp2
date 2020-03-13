@@ -48,9 +48,9 @@ app.get("/*", (req, res) => {
 });
 
 var log = function() {
-  console.log("app listening on port 4005");
+  console.log("app listening on port 3000");
 };
 
-app.listen(process.env.PORT || 4005, log);
+app.listen(process.env.PORT || 3000, log);
 
 module.exports = app;
