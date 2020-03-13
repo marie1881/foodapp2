@@ -1,4 +1,4 @@
-<!-- <img src="public/img/sml-logo.png" /> -->
+<img src="public/img/sml-logo.png" />
 
 # Double Shot
 
